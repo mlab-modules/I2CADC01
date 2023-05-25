@@ -1,18 +1,22 @@
 description: 24-bit analog to digital converter with I2C interface
 github_branch: I2CADC01A
+github_branches:
+- I2CADC01A
 github_repo: I2CADC01
 github_url: https://github.com/mlab-modules/I2CADC01
 homepage: false
+image: doc/img/I2CADC01A_top_big.jpg
 images:
 - doc/img/I2CADC01A_top_big.jpg
 - doc/img/I2CADC01A_small.jpg
 - doc/img/I2CADC01A_QRcode.png
-- doc/gen/img/I2CADC01-top.png
 - doc/gen/img/I2CADC01-bottom.png
-- doc/gen/I2CADC01-schematic.svg
-- doc/gen/img/I2CADC01-top.svg
+- doc/gen/img/I2CADC01-top.png
 - hw/cam_profi/docs/I2CADC01A-assembly_page_02.svg
 - hw/cam_profi/docs/I2CADC01A-assembly_page_01.svg
+- doc/gen/I2CADC01-schematic.svg
+- doc/gen/img/I2CADC01-top.svg
+issues: 0
 mark: 50
 mod_ibom: hw/cam_profi/ibom/I2CADC01-ibom.html
 mod_scheme: doc/gen/I2CADC01-schematic.pdf

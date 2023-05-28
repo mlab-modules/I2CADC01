@@ -16,6 +16,7 @@ images:
 - hw/cam_profi/docs/I2CADC01A-assembly_page_01.svg
 - doc/gen/I2CADC01-schematic.svg
 - doc/gen/img/I2CADC01-top.svg
+- doc/gen/img/I2CADC01-bottom.svg
 issues: 0
 mark: 50
 mod_ibom: hw/cam_profi/ibom/I2CADC01-ibom.html

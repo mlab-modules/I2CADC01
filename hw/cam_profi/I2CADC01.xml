@@ -2,8 +2,8 @@
 <export version="E">
   <design>
     <source>/github/workspace/hw/sch_pcb/I2CADC01.kicad_sch</source>
-    <date>Wed Jul  5 12:31:05 2023</date>
-    <tool>Eeschema 6.0.11+dfsg-1~bpo11+1</tool>
+    <date>Wed Jul  5 13:12:04 2023</date>
+    <tool>Eeschema 7.0.5.1-1-g8f565ef7f0-dirty-deb11</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
         <title>I2CADC01</title>
@@ -553,21 +553,7 @@
       <node ref="U1" pin="11" pinfunction="GND" pintype="unspecified"/>
       <node ref="U1" pin="8" pinfunction="GND" pintype="input"/>
     </net>
-    <net code="6" name="Net-(C1-Pad2)">
-      <node ref="C1" pin="2" pintype="passive"/>
-      <node ref="D2" pin="1" pinfunction="A" pintype="passive"/>
-      <node ref="D3" pin="2" pinfunction="K" pintype="passive"/>
-      <node ref="R1" pin="1" pintype="passive"/>
-      <node ref="U1" pin="4" pinfunction="IN+" pintype="input"/>
-    </net>
-    <net code="7" name="Net-(C2-Pad1)">
-      <node ref="C2" pin="1" pintype="passive"/>
-      <node ref="D2" pin="2" pinfunction="K" pintype="passive"/>
-      <node ref="D3" pin="1" pinfunction="A" pintype="passive"/>
-      <node ref="R2" pin="1" pintype="passive"/>
-      <node ref="U1" pin="5" pinfunction="IN-" pintype="input"/>
-    </net>
-    <net code="8" name="Net-(C5-Pad2)">
+    <net code="6" name="Net-(D1-K)">
       <node ref="C5" pin="2" pintype="passive"/>
       <node ref="C7" pin="2" pintype="passive"/>
       <node ref="D1" pin="2" pinfunction="K" pintype="passive"/>
@@ -575,25 +561,39 @@
       <node ref="J1" pin="4" pinfunction="4" pintype="passive"/>
       <node ref="L1" pin="1" pinfunction="1" pintype="passive"/>
     </net>
-    <net code="9" name="Net-(C8-Pad2)">
+    <net code="7" name="Net-(D2-A)">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="D2" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="D3" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="U1" pin="4" pinfunction="IN+" pintype="input"/>
+    </net>
+    <net code="8" name="Net-(D2-K)">
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="D2" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="D3" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="IN-" pintype="input"/>
+    </net>
+    <net code="9" name="Net-(D4-K)">
       <node ref="C8" pin="2" pintype="passive"/>
       <node ref="D4" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="J4" pin="1" pinfunction="P1" pintype="passive"/>
       <node ref="R3" pin="1" pintype="passive"/>
     </net>
-    <net code="10" name="Net-(J3-Pad2)">
+    <net code="10" name="Net-(J3-PM)">
       <node ref="J3" pin="2" pinfunction="PM" pintype="passive"/>
       <node ref="U1" pin="3" pinfunction="REF-" pintype="unspecified"/>
     </net>
-    <net code="11" name="Net-(J4-Pad2)">
+    <net code="11" name="Net-(J4-PM)">
       <node ref="J4" pin="2" pinfunction="PM" pintype="passive"/>
       <node ref="U1" pin="1" pinfunction="REF+" pintype="unspecified"/>
     </net>
-    <net code="12" name="Net-(P1-Pad1)">
+    <net code="12" name="Net-(P1-P1)">
       <node ref="P1" pin="1" pinfunction="P1" pintype="passive"/>
       <node ref="R1" pin="2" pintype="passive"/>
     </net>
-    <net code="13" name="Net-(P2-Pad1)">
+    <net code="13" name="Net-(P2-P1)">
       <node ref="P2" pin="1" pinfunction="P1" pintype="passive"/>
       <node ref="R2" pin="2" pintype="passive"/>
       <node ref="R6" pin="2" pintype="passive"/>

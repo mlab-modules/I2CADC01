@@ -1,4 +1,4 @@
-Ref,Val,Package,PosX,PosY,Rot,Side
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
 "C1","100nF","SMD-0805",21.8440,16.2560,180.0000,bottom
 "C2","100nF","SMD-0805",9.6520,16.2560,180.0000,bottom
 "C3","10uF","SMD-0805",21.5900,24.1300,-90.0000,bottom
@@ -10,6 +10,7 @@ Ref,Val,Package,PosX,PosY,Rot,Side
 "D1","M4","SMA_Standard",8.1280,20.5740,180.0000,bottom
 "D2","BAT46","MiniMELF_Standard",15.7480,18.5420,180.0000,bottom
 "D3","BAT46","MiniMELF_Standard",15.7480,21.3360,0.0000,bottom
+"D4","LM4041-adj","SOT-23",7.4930,28.9560,90.0000,bottom
 "L1","BLM21PG300SN1D","SMD-0805",3.0480,21.0820,90.0000,bottom
 "R1","10k","SMD-0805",18.2880,15.2400,-90.0000,bottom
 "R2","10k","SMD-0805",13.2080,15.2400,-90.0000,bottom

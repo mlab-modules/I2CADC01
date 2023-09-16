@@ -21,6 +21,7 @@ issues: 0
 mark: 50
 mod_ibom: hw/cam_profi/I2CADC01-ibom.html
 mod_scheme: doc/gen/I2CADC01-schematic.pdf
+status: 0
 tags:
 - mlab
 - mlab-module

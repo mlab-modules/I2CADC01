@@ -2,6 +2,7 @@ description: 24-bit analog to digital converter with I2C interface
 github_branch: I2CADC01A
 github_branches:
 - I2CADC01A
+github_description: 24-bit analog to digital converter with I2C interface
 github_repo: I2CADC01
 github_url: https://github.com/mlab-modules/I2CADC01
 homepage: false
@@ -31,4 +32,4 @@ tags:
 - mlab-kicad
 - pcb
 title: I2CADC01
-updated: '2023-09-16T16:32:57.801376+00:00'
+updated: '2023-09-17T11:37:43.048636+00:00'

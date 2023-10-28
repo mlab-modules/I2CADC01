@@ -10,14 +10,14 @@ image_title: doc/img/I2CADC01A_top_big.jpg
 images:
 - doc/img/I2CADC01A_small.jpg
 - doc/img/I2CADC01A_top_big.jpg
-- doc/img/I2CADC01A_QRcode.png
-- doc/gen/img/I2CADC01-top.png
 - doc/gen/img/I2CADC01-bottom.png
+- doc/gen/img/I2CADC01-top.png
+- doc/img/I2CADC01A_QRcode.png
+- hw/cam_profi/assembly/I2CADC01-assembly_page_02.svg
+- hw/cam_profi/assembly/I2CADC01-assembly_page_01.svg
 - doc/gen/I2CADC01-schematic.svg
 - doc/gen/img/I2CADC01-bottom.svg
 - doc/gen/img/I2CADC01-top.svg
-- hw/cam_profi/assembly/I2CADC01-assembly_page_01.svg
-- hw/cam_profi/assembly/I2CADC01-assembly_page_02.svg
 issues: 0
 mark: 50
 mod_ibom: hw/cam_profi/I2CADC01-ibom.html
@@ -32,4 +32,4 @@ tags:
 - mlab-kicad
 - pcb
 title: I2CADC01
-updated: '2023-09-17T11:49:36.569381+00:00'
+updated: '2023-10-28T12:52:47.569465+00:00'

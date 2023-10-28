@@ -15,4 +15,4 @@ Component,Description,Part,References,Value,Footprint,Quantity Per PCB,Datasheet
 14,,R-RESCUE-I2CADC01A,R6,0R,SMD-0805,1,
 15,,R-RESCUE-I2CADC01A,R3,3K3,SMD-0805,1,
 16,,R-RESCUE-I2CADC01A,R1R2R4R5,10k,SMD-0805,4,
-17,,LTC2485,U1,LTC2485,DFN-10-1EP_3x3mm_Pitch0.5mm,1,
+17,,LTC2485,U1,LTC2485,DFN-10-1EP_3x3mm_Pitch0.5mm,1,https://www.analog.com/media/en/technical-documentation/data-sheets/2485fd.pdf

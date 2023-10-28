@@ -2,11 +2,11 @@
 <export version="E">
   <design>
     <source>/github/workspace/hw/sch_pcb/I2CADC01.kicad_sch</source>
-    <date>Mon Sep 11 01:06:40 2023</date>
-    <tool>Eeschema 7.0.7-7.0.7~ubuntu23.04.1</tool>
+    <date>Sat Oct 28 12:54:37 2023</date>
+    <tool>Eeschema 7.0.8-7.0.8~ubuntu23.04.1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
-        <title>I2CADC01</title>
+        <title>I2CADC01A</title>
         <company>mlab.cz</company>
         <rev>A</rev>
         <date>2023-04-02</date>
@@ -315,7 +315,9 @@
     <comp ref="U1">
       <value>LTC2485</value>
       <footprint>Housings_DFN_QFN:DFN-10-1EP_3x3mm_Pitch0.5mm</footprint>
+      <datasheet>https://www.analog.com/media/en/technical-documentation/data-sheets/2485fd.pdf</datasheet>
       <libsource lib="I2CADC01-rescue" part="LTC2485" description=""/>
+      <property name="UST_ID" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="I2CADC01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>

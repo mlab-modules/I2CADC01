@@ -2,8 +2,8 @@
 <export version="E">
   <design>
     <source>/github/workspace/hw/sch_pcb/I2CADC01.kicad_sch</source>
-    <date>Fri May 31 01:02:38 2024</date>
-    <tool>Eeschema 7.0.11+1</tool>
+    <date>2024-07-16T01:06:32+0000</date>
+    <tool>Eeschema 8.0.3+1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
         <title>I2CADC01A</title>
@@ -27,114 +27,191 @@
     <comp ref="C1">
       <value>100nF</value>
       <footprint>Mlab_R:SMD-0805</footprint>
+      <fields>
+        <field name="Footprint">Mlab_R:SMD-0805</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
       <libsource lib="I2CADC01-rescue" part="C-RESCUE-I2CADC01A" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="I2CADC01.kicad_sch"/>
+      <property name="ki_fp_filters" value="SM* C? C1-1"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-0000554603ca</tstamps>
     </comp>
     <comp ref="C2">
       <value>100nF</value>
       <footprint>Mlab_R:SMD-0805</footprint>
+      <fields>
+        <field name="Footprint">Mlab_R:SMD-0805</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
       <libsource lib="I2CADC01-rescue" part="C-RESCUE-I2CADC01A" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="I2CADC01.kicad_sch"/>
+      <property name="ki_fp_filters" value="SM* C? C1-1"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000055460399</tstamps>
     </comp>
     <comp ref="C3">
       <value>10uF</value>
       <footprint>Mlab_R:SMD-0805</footprint>
+      <fields>
+        <field name="Footprint">Mlab_R:SMD-0805</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
       <libsource lib="I2CADC01-rescue" part="C-RESCUE-I2CADC01A" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="I2CADC01.kicad_sch"/>
+      <property name="ki_fp_filters" value="SM* C? C1-1"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000055461125</tstamps>
     </comp>
     <comp ref="C4">
       <value>100nF</value>
       <footprint>Mlab_R:SMD-0805</footprint>
+      <fields>
+        <field name="Footprint">Mlab_R:SMD-0805</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
       <libsource lib="I2CADC01-rescue" part="C-RESCUE-I2CADC01A" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="I2CADC01.kicad_sch"/>
+      <property name="ki_fp_filters" value="SM* C? C1-1"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-0000554611eb</tstamps>
     </comp>
     <comp ref="C5">
       <value>10uF</value>
       <footprint>Mlab_R:SMD-0805</footprint>
+      <fields>
+        <field name="Footprint">Mlab_R:SMD-0805</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
       <libsource lib="I2CADC01-rescue" part="C-RESCUE-I2CADC01A" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="I2CADC01.kicad_sch"/>
+      <property name="ki_fp_filters" value="SM* C? C1-1"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005549e770</tstamps>
     </comp>
     <comp ref="C6">
       <value>100nF</value>
       <footprint>Mlab_R:SMD-0805</footprint>
+      <fields>
+        <field name="Footprint">Mlab_R:SMD-0805</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
       <libsource lib="I2CADC01-rescue" part="C-RESCUE-I2CADC01A" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="I2CADC01.kicad_sch"/>
+      <property name="ki_fp_filters" value="SM* C? C1-1"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005549e77c</tstamps>
     </comp>
     <comp ref="C7">
       <value>100nF</value>
       <footprint>Mlab_R:SMD-0805</footprint>
+      <fields>
+        <field name="Footprint">Mlab_R:SMD-0805</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
       <libsource lib="I2CADC01-rescue" part="C-RESCUE-I2CADC01A" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="I2CADC01.kicad_sch"/>
+      <property name="ki_fp_filters" value="SM* C? C1-1"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000055c44713</tstamps>
     </comp>
     <comp ref="C8">
       <value>22nF</value>
       <footprint>Mlab_R:SMD-0805</footprint>
+      <fields>
+        <field name="Footprint">Mlab_R:SMD-0805</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
       <libsource lib="I2CADC01-rescue" part="C-RESCUE-I2CADC01A" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="I2CADC01.kicad_sch"/>
+      <property name="ki_fp_filters" value="SM* C? C1-1"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000055b503b6</tstamps>
     </comp>
     <comp ref="D1">
       <value>M4</value>
       <footprint>Mlab_D:SMA_Standard</footprint>
+      <fields>
+        <field name="Footprint">Mlab_D:SMA_Standard</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
       <libsource lib="I2CADC01-rescue" part="DIODE" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="I2CADC01.kicad_sch"/>
+      <property name="ki_fp_filters" value="D? S*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000055460dce</tstamps>
     </comp>
     <comp ref="D2">
       <value>BAT46</value>
       <footprint>Mlab_D:MiniMELF_Standard</footprint>
+      <fields>
+        <field name="Footprint">Mlab_D:MiniMELF_Standard</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
       <libsource lib="I2CADC01-rescue" part="DIODE" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="I2CADC01.kicad_sch"/>
+      <property name="ki_fp_filters" value="D? S*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005546045e</tstamps>
     </comp>
     <comp ref="D3">
       <value>BAT46</value>
       <footprint>Mlab_D:MiniMELF_Standard</footprint>
+      <fields>
+        <field name="Footprint">Mlab_D:MiniMELF_Standard</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
       <libsource lib="I2CADC01-rescue" part="DIODE" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="I2CADC01.kicad_sch"/>
+      <property name="ki_fp_filters" value="D? S*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000055460409</tstamps>
     </comp>
     <comp ref="D4">
       <value>LM4041-adj</value>
       <footprint>Mlab_IO:SOT-23</footprint>
+      <fields>
+        <field name="Footprint">Mlab_IO:SOT-23</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
       <libsource lib="I2CADC01-rescue" part="REFERENCE" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="I2CADC01.kicad_sch"/>
+      <property name="ki_fp_filters" value="D? SO* SM*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000055461701</tstamps>
     </comp>
     <comp ref="J1">
       <value>JUMP_3X2</value>
       <footprint>Mlab_Pin_Headers:Straight_2x03</footprint>
+      <fields>
+        <field name="Footprint">Mlab_Pin_Headers:Straight_2x03</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
       <libsource lib="I2CADC01-rescue" part="JUMP_3X2" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="I2CADC01.kicad_sch"/>
@@ -144,6 +221,11 @@
     <comp ref="J3">
       <value>CONN_2</value>
       <footprint>Mlab_Pin_Headers:Straight_2x01</footprint>
+      <fields>
+        <field name="Footprint">Mlab_Pin_Headers:Straight_2x01</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
       <libsource lib="I2CADC01-rescue" part="CONN_2" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="I2CADC01.kicad_sch"/>
@@ -153,6 +235,11 @@
     <comp ref="J4">
       <value>CONN_3</value>
       <footprint>Mlab_Pin_Headers:Straight_1x03</footprint>
+      <fields>
+        <field name="Footprint">Mlab_Pin_Headers:Straight_1x03</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
       <libsource lib="I2CADC01-rescue" part="CONN_3" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="I2CADC01.kicad_sch"/>
@@ -162,6 +249,11 @@
     <comp ref="J5">
       <value>JUMP2_2x1</value>
       <footprint>Mlab_Pin_Headers:Straight_2x01</footprint>
+      <fields>
+        <field name="Footprint">Mlab_Pin_Headers:Straight_2x01</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
       <libsource lib="I2CADC01-rescue" part="JUMP2_2x1" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="I2CADC01.kicad_sch"/>
@@ -171,6 +263,11 @@
     <comp ref="J6">
       <value>JUMP2_2x1</value>
       <footprint>Mlab_Pin_Headers:Straight_2x01</footprint>
+      <fields>
+        <field name="Footprint">Mlab_Pin_Headers:Straight_2x01</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
       <libsource lib="I2CADC01-rescue" part="JUMP2_2x1" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="I2CADC01.kicad_sch"/>
@@ -180,6 +277,11 @@
     <comp ref="J7">
       <value>JUMP_5X2</value>
       <footprint>Mlab_Pin_Headers:Straight_2x05</footprint>
+      <fields>
+        <field name="Footprint">Mlab_Pin_Headers:Straight_2x05</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
       <libsource lib="I2CADC01-rescue" part="JUMP_5X2" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="I2CADC01.kicad_sch"/>
@@ -189,6 +291,11 @@
     <comp ref="J8">
       <value>CONN_2</value>
       <footprint>Mlab_Pin_Headers:Straight_2x01</footprint>
+      <fields>
+        <field name="Footprint">Mlab_Pin_Headers:Straight_2x01</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
       <libsource lib="I2CADC01-rescue" part="CONN_2" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="I2CADC01.kicad_sch"/>
@@ -198,6 +305,11 @@
     <comp ref="L1">
       <value>BLM21PG300SN1D</value>
       <footprint>Mlab_R:SMD-0805</footprint>
+      <fields>
+        <field name="Footprint">Mlab_R:SMD-0805</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
       <libsource lib="I2CADC01-rescue" part="INDUCTOR" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="I2CADC01.kicad_sch"/>
@@ -207,6 +319,11 @@
     <comp ref="M1">
       <value>HOLE</value>
       <footprint>Mlab_Mechanical:MountingHole_3mm</footprint>
+      <fields>
+        <field name="Footprint">Mlab_Mechanical:MountingHole_3mm</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
       <libsource lib="I2CADC01-rescue" part="HOLE" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="I2CADC01.kicad_sch"/>
@@ -216,6 +333,11 @@
     <comp ref="M2">
       <value>HOLE</value>
       <footprint>Mlab_Mechanical:MountingHole_3mm</footprint>
+      <fields>
+        <field name="Footprint">Mlab_Mechanical:MountingHole_3mm</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
       <libsource lib="I2CADC01-rescue" part="HOLE" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="I2CADC01.kicad_sch"/>
@@ -225,6 +347,11 @@
     <comp ref="M3">
       <value>HOLE</value>
       <footprint>Mlab_Mechanical:MountingHole_3mm</footprint>
+      <fields>
+        <field name="Footprint">Mlab_Mechanical:MountingHole_3mm</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
       <libsource lib="I2CADC01-rescue" part="HOLE" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="I2CADC01.kicad_sch"/>
@@ -234,6 +361,11 @@
     <comp ref="M4">
       <value>HOLE</value>
       <footprint>Mlab_Mechanical:MountingHole_3mm</footprint>
+      <fields>
+        <field name="Footprint">Mlab_Mechanical:MountingHole_3mm</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
       <libsource lib="I2CADC01-rescue" part="HOLE" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="I2CADC01.kicad_sch"/>
@@ -243,6 +375,11 @@
     <comp ref="P1">
       <value>_</value>
       <footprint>Mlab_Con:WAGO256</footprint>
+      <fields>
+        <field name="Footprint">Mlab_Con:WAGO256</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
       <libsource lib="I2CADC01-rescue" part="_" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="I2CADC01.kicad_sch"/>
@@ -252,6 +389,11 @@
     <comp ref="P2">
       <value>_</value>
       <footprint>Mlab_Con:WAGO256</footprint>
+      <fields>
+        <field name="Footprint">Mlab_Con:WAGO256</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
       <libsource lib="I2CADC01-rescue" part="_" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="I2CADC01.kicad_sch"/>
@@ -261,54 +403,90 @@
     <comp ref="R1">
       <value>10k</value>
       <footprint>Mlab_R:SMD-0805</footprint>
+      <fields>
+        <field name="Footprint">Mlab_R:SMD-0805</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
       <libsource lib="I2CADC01-rescue" part="R-RESCUE-I2CADC01A" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="I2CADC01.kicad_sch"/>
+      <property name="ki_fp_filters" value="R? SM0603 SM0805 R?-* SM1206"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000055460320</tstamps>
     </comp>
     <comp ref="R2">
       <value>10k</value>
       <footprint>Mlab_R:SMD-0805</footprint>
+      <fields>
+        <field name="Footprint">Mlab_R:SMD-0805</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
       <libsource lib="I2CADC01-rescue" part="R-RESCUE-I2CADC01A" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="I2CADC01.kicad_sch"/>
+      <property name="ki_fp_filters" value="R? SM0603 SM0805 R?-* SM1206"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000055460379</tstamps>
     </comp>
     <comp ref="R3">
       <value>3K3</value>
       <footprint>Mlab_R:SMD-0805</footprint>
+      <fields>
+        <field name="Footprint">Mlab_R:SMD-0805</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
       <libsource lib="I2CADC01-rescue" part="R-RESCUE-I2CADC01A" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="I2CADC01.kicad_sch"/>
+      <property name="ki_fp_filters" value="R? SM0603 SM0805 R?-* SM1206"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000055461894</tstamps>
     </comp>
     <comp ref="R4">
       <value>10k</value>
       <footprint>Mlab_R:SMD-0805</footprint>
+      <fields>
+        <field name="Footprint">Mlab_R:SMD-0805</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
       <libsource lib="I2CADC01-rescue" part="R-RESCUE-I2CADC01A" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="I2CADC01.kicad_sch"/>
+      <property name="ki_fp_filters" value="R? SM0603 SM0805 R?-* SM1206"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000055462bf7</tstamps>
     </comp>
     <comp ref="R5">
       <value>10k</value>
       <footprint>Mlab_R:SMD-0805</footprint>
+      <fields>
+        <field name="Footprint">Mlab_R:SMD-0805</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
       <libsource lib="I2CADC01-rescue" part="R-RESCUE-I2CADC01A" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="I2CADC01.kicad_sch"/>
+      <property name="ki_fp_filters" value="R? SM0603 SM0805 R?-* SM1206"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000055462cad</tstamps>
     </comp>
     <comp ref="R6">
       <value>0R</value>
       <footprint>Mlab_R:SMD-0805</footprint>
+      <fields>
+        <field name="Footprint">Mlab_R:SMD-0805</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
       <libsource lib="I2CADC01-rescue" part="R-RESCUE-I2CADC01A" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="I2CADC01.kicad_sch"/>
+      <property name="ki_fp_filters" value="R? SM0603 SM0805 R?-* SM1206"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000055c450c3</tstamps>
     </comp>
@@ -316,6 +494,12 @@
       <value>LTC2485</value>
       <footprint>Housings_DFN_QFN:DFN-10-1EP_3x3mm_Pitch0.5mm</footprint>
       <datasheet>https://www.analog.com/media/en/technical-documentation/data-sheets/2485fd.pdf</datasheet>
+      <fields>
+        <field name="UST_ID"/>
+        <field name="Footprint">Housings_DFN_QFN:DFN-10-1EP_3x3mm_Pitch0.5mm</field>
+        <field name="Datasheet">https://www.analog.com/media/en/technical-documentation/data-sheets/2485fd.pdf</field>
+        <field name="Description"/>
+      </fields>
       <libsource lib="I2CADC01-rescue" part="LTC2485" description=""/>
       <property name="UST_ID" value=""/>
       <property name="Sheetname" value=""/>
@@ -334,6 +518,9 @@
       <fields>
         <field name="Reference">C</field>
         <field name="Value">C-RESCUE-I2CADC01A</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <pins>
         <pin num="1" name="" type="passive"/>
@@ -344,6 +531,9 @@
       <fields>
         <field name="Reference">J</field>
         <field name="Value">CONN_2</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <pins>
         <pin num="1" name="P1" type="passive"/>
@@ -354,6 +544,9 @@
       <fields>
         <field name="Reference">J</field>
         <field name="Value">CONN_3</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <pins>
         <pin num="1" name="P1" type="passive"/>
@@ -369,6 +562,9 @@
       <fields>
         <field name="Reference">D</field>
         <field name="Value">DIODE</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <pins>
         <pin num="1" name="A" type="passive"/>
@@ -379,6 +575,9 @@
       <fields>
         <field name="Reference">M</field>
         <field name="Value">HOLE</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <pins>
         <pin num="1" name="" type="input"/>
@@ -388,6 +587,9 @@
       <fields>
         <field name="Reference">L</field>
         <field name="Value">INDUCTOR</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <pins>
         <pin num="1" name="1" type="passive"/>
@@ -398,6 +600,9 @@
       <fields>
         <field name="Reference">J</field>
         <field name="Value">JUMP2_2x1</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <pins>
         <pin num="1" name="1" type="passive"/>
@@ -408,6 +613,9 @@
       <fields>
         <field name="Reference">J</field>
         <field name="Value">JUMP_3X2</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <pins>
         <pin num="1" name="2" type="passive"/>
@@ -422,6 +630,9 @@
       <fields>
         <field name="Reference">J</field>
         <field name="Value">JUMP_5X2</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <pins>
         <pin num="1" name="2" type="passive"/>
@@ -440,6 +651,9 @@
       <fields>
         <field name="Reference">U</field>
         <field name="Value">LTC2485</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <pins>
         <pin num="1" name="REF+" type="unspecified"/>
@@ -466,6 +680,9 @@
       <fields>
         <field name="Reference">R</field>
         <field name="Value">R-RESCUE-I2CADC01A</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <pins>
         <pin num="1" name="" type="passive"/>
@@ -481,6 +698,9 @@
       <fields>
         <field name="Reference">D</field>
         <field name="Value">REFERENCE</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <pins>
         <pin num="1" name="K" type="passive"/>
@@ -492,6 +712,9 @@
       <fields>
         <field name="Reference">P</field>
         <field name="Value">_</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <pins>
         <pin num="1" name="P1" type="passive"/>
